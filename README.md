@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tofiquekhan
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently working on Spring & Springboot Framework
 - 💞️ I’m looking to collaborate on Java Based Project
 - 📫 How to reach me tofiqueahmedkhan@icloud.com
 
